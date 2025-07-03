@@ -69,3 +69,14 @@
 [18:39:57] [Server thread/INFO]: Clagolas8 has made the advancement [Diamonds!]
 [18:40:33] [Server thread/INFO]: Clagolas was slain by Zombie
 [18:41:58] [Server thread/INFO]: deimos2862 has made the advancement [Sweet Dreams]
+[18:42:04] [Server thread/INFO]: Thecno662 has made the advancement [Not Today, Thank You]
+[18:42:30] [Server thread/INFO]: deimos2862 has made the advancement [Diamonds!]
+[18:43:01] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to deimos2862]
+[18:47:13] [Server thread/INFO]: Clagolas8 was slain by deimos2862
+[18:51:06] [Netty Epoll Server IO #1/WARN]: Clagolas sent out-of-order chat: 'tp Clagolas8 c'
+[18:51:06] [Server thread/INFO]: Clagolas lost connection: Out-of-order chat packet received. Did your system time change?
+[18:51:06] [Server thread/INFO]: Clagolas left the game
+[18:51:07] [Server thread/WARN]: handleDisconnection() called twice
+[18:51:14] [Server thread/INFO]: Clagolas[/127.173.8.53:54763] logged in with entity id 7415 at (64.30000001192093, 11.0, 39.228026623053395)
+[18:51:14] [Server thread/INFO]: Clagolas joined the game
+[18:51:58] [Server thread/INFO]: [Clagolas: Teleported Clagolas8 to Clagolas8]
