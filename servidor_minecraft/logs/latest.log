@@ -1,213 +1,50 @@
-[02:29:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:29:46] [ServerMain/INFO]: Loaded 7 recipes
-[02:29:46] [ServerMain/INFO]: Loaded 1271 advancements
-[02:29:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:29:47] [Server thread/INFO]: Loading properties
-[02:29:47] [Server thread/INFO]: Default game type: SURVIVAL
-[02:29:47] [Server thread/INFO]: Generating keypair
-[02:29:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:29:47] [Server thread/INFO]: Using epoll channel type
-[02:29:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:29:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:29:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:29:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:29:47] [Server thread/INFO]: Preparing level "world"
-[02:30:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:46] [Worker-Main-6/INFO]: Preparing spawn area: 13%
-[02:30:46] [Worker-Main-6/INFO]: Preparing spawn area: 32%
-[02:30:48] [Server thread/INFO]: Time elapsed: 47817 ms
-[02:30:48] [Server thread/INFO]: Done (60.810s)! For help, type "help"
-[02:33:13] [Server thread/INFO]: Thecno662[/127.173.8.53:58663] logged in with entity id 244 at (-8.5, 122.0, -3.5)
-[02:33:13] [Server thread/INFO]: Thecno662 joined the game
-[02:35:15] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-28, y=119, z=54} gu{x=-28, y=118, z=53}
-[02:36:10] [Server thread/WARN]: Thecno662 moved too quickly! -9.877206433898074,2.249187078744683,-0.493839294246774
-[02:36:14] [Server thread/WARN]: Thecno662 was kicked for floating too long!
-[02:36:14] [Server thread/INFO]: Thecno662 lost connection: Flying is not enabled on this server
-[02:36:14] [Server thread/INFO]: Thecno662 left the game
-[02:36:19] [Server thread/INFO]: Thecno662[/127.173.8.53:38863] logged in with entity id 905 at (-23.820250479487804, 126.16610926093821, 12.576273141691175)
-[02:36:19] [Server thread/INFO]: Thecno662 joined the game
-[02:39:51] [Server thread/INFO]: deimos2862[/127.173.8.53:42553] logged in with entity id 1601 at (8.5, 120.0, -1.5)
-[02:39:51] [Server thread/INFO]: deimos2862 joined the game
-[02:40:18] [Server thread/INFO]: deimos2862 lost connection: Disconnected
-[02:40:18] [Server thread/INFO]: deimos2862 left the game
-[02:41:49] [Server thread/INFO]: Clagolas[/127.173.8.53:46701] logged in with entity id 1816 at (2.5, 120.0, 10.5)
-[02:41:49] [Server thread/INFO]: Clagolas joined the game
-[02:42:02] [Server thread/INFO]: Set the time to 1000
-[02:42:08] [Server thread/INFO]: deimos2862[/127.173.8.53:35131] logged in with entity id 1863 at (8.5, 120.0, -1.5)
-[02:42:08] [Server thread/INFO]: deimos2862 joined the game
-[02:42:18] [Server thread/INFO]: Clagolas8[/127.173.8.53:59647] logged in with entity id 1879 at (-7.5, 122.0, -2.5)
-[02:42:18] [Server thread/INFO]: Clagolas8 joined the game
-[02:43:59] [Server thread/INFO]: Clagolas8 was slain by deimos2862
-[02:48:08] [Server thread/INFO]: deimos2862 has made the advancement [Stone Age]
-[02:48:17] [Server thread/INFO]: Thecno662 has made the advancement [Stone Age]
-[02:50:15] [Server thread/INFO]: Clagolas fell from a high place
-[02:50:32] [Server thread/INFO]: Incorrect argument for command
-[02:50:32] [Server thread/INFO]: ...p Clagotp @a Thecno662<--[HERE]
-[02:50:37] [Server thread/INFO]: Made Thecno662 a server operator
-[02:50:43] [Server thread/INFO]: [Thecno662: Teleported 4 entities to Thecno662]
-[02:51:03] [Server thread/INFO]: Thecno662 has made the advancement [Getting an Upgrade]
-[02:52:03] [Server thread/INFO]: deimos2862 has made the advancement [Getting an Upgrade]
-[02:53:01] [Server thread/INFO]: Clagolas fell from a high place
-[02:53:01] [Server thread/INFO]: Clagolas8 was slain by deimos2862
-[02:53:21] [Server thread/INFO]: [Thecno662: Teleported 4 entities to Thecno662]
-[02:54:21] [Server thread/INFO]: deimos2862 fell from a high place
-[02:54:26] [Server thread/INFO]: [Thecno662: Teleported deimos2862 to Thecno662]
-[02:54:27] [Server thread/INFO]: Clagolas8 has made the advancement [Stone Age]
-[02:54:30] [Server thread/INFO]: Clagolas8 has made the advancement [Getting an Upgrade]
-[02:54:35] [Server thread/INFO]: Thecno662 has made the advancement [Monster Hunter]
-[02:56:14] [Server thread/INFO]: Clagolas burned to death
-[02:56:21] [Server thread/INFO]: Clagolas8 burned to death
-[02:56:24] [Server thread/INFO]: [Thecno662: Teleported Clagolas to Thecno662]
-[02:56:28] [Server thread/INFO]: Clagolas has made the advancement [Getting an Upgrade]
-[02:56:38] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Thecno662]
-[02:56:55] [Server thread/INFO]: Clagolas has made the advancement [Stone Age]
-[02:57:07] [Server thread/INFO]: Clagolas8 tried to swim in lava
-[02:57:17] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[02:58:27] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[02:59:00] [Server thread/INFO]: Clagolas has made the advancement [Monster Hunter]
-[02:59:43] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:00:25] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:02:11] [Server thread/INFO]: Clagolas8 tried to swim in lava
-[03:02:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=121, z=9}
-[03:03:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=13, y=119, z=8}
-[03:03:57] [Server thread/INFO]: deimos2862 has made the advancement [Monster Hunter]
-[03:04:00] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Clagolas]
-[03:05:00] [Server thread/INFO]: Thecno662 has made the advancement [Acquire Hardware]
-[03:05:06] [Server thread/INFO]: Thecno662 has made the advancement [Isn't It Iron Pick]
-[03:05:09] [Server thread/INFO]: Thecno662 has made the advancement [Diamonds!]
-[03:05:22] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to Clagolas]
-[03:06:01] [Server thread/INFO]: deimos2862 was slain by Zombie
-[03:06:03] [Server thread/INFO]: Clagolas has made the advancement [Diamonds!]
-[03:06:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=120, z=12}
-[03:06:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=121, z=12}
-[03:06:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=121, z=12}
-[03:06:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=120, z=12}
-[03:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=119, z=12}
-[03:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=120, z=12}
-[03:08:29] [Server thread/INFO]: Clagolas tried to swim in lava
-[03:10:04] [Server thread/INFO]: Clagolas8 burned to death
-[03:10:28] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:11:09] [Server thread/INFO]: Clagolas8 was shot by Skeleton
-[03:11:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:11:47] [Server thread/INFO]: deimos2862 was shot by Skeleton
-[03:11:52] [Server thread/INFO]: [Thecno662: Teleported deimos2862 to Clagolas8]
-[03:12:01] [Server thread/INFO]: Clagolas8 was slain by Zombie
-[03:12:06] [Server thread/INFO]: Clagolas fell from a high place
-[03:12:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=123, z=3}
-[03:12:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
-[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
-[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
-[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
-[03:12:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=1, y=120, z=3}
-[03:12:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
-[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
-[03:12:30] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:13:08] [Server thread/INFO]: Clagolas8 was doomed to fall by Skeleton
-[03:13:22] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Clagolas]
-[03:13:25] [Server thread/INFO]: Clagolas was slain by Zombie
-[03:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=120, z=-3}
-[03:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=120, z=-3}
-[03:13:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas to deimos2862]
-[03:13:35] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
-[03:14:31] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to Clagolas]
-[03:22:28] [Server thread/INFO]: [Thecno662: Set the weather to clear]
-[03:27:35] [Server thread/INFO]: Clagolas8 went up in flames
-[03:27:47] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Thecno662]
-[03:28:42] [Server thread/INFO]: Clagolas has made the advancement [Isn't It Iron Pick]
-[03:30:05] [Server thread/INFO]: Thecno662 has made the advancement [Suit Up]
-[03:35:45] [Server thread/INFO]: Clagolas drowned
-[03:35:51] [Server thread/INFO]: [Thecno662: Teleported Clagolas to deimos2862]
-[03:37:02] [Server thread/INFO]: deimos2862 has made the advancement [Acquire Hardware]
-[03:37:23] [Server thread/INFO]: deimos2862 has made the advancement [Isn't It Iron Pick]
-[03:39:30] [Server thread/INFO]: Clagolas8 has made the advancement [Sweet Dreams]
+[18:11:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:12:03] [ServerMain/INFO]: Loaded 7 recipes
+[18:12:03] [ServerMain/INFO]: Loaded 1271 advancements
+[18:12:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:12:04] [Server thread/INFO]: Loading properties
+[18:12:04] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:04] [Server thread/INFO]: Generating keypair
+[18:12:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:04] [Server thread/INFO]: Using epoll channel type
+[18:12:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:04] [Server thread/INFO]: Preparing level "world"
+[18:12:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:20] [Server thread/INFO]: Time elapsed: 9807 ms
+[18:12:20] [Server thread/INFO]: Done (16.054s)! For help, type "help"
+[18:17:35] [Server thread/INFO]: deimos2862[/127.173.8.53:47387] logged in with entity id 200 at (117.69999998807907, 11.0, -3.300000011920929)
+[18:17:35] [Server thread/INFO]: deimos2862 joined the game
+[18:17:40] [Server thread/INFO]: Clagolas[/127.173.8.53:38797] logged in with entity id 265 at (30.546612586742842, 54.231523797587016, 48.92186347390511)
+[18:17:40] [Server thread/INFO]: Clagolas joined the game
+[18:18:14] [Server thread/INFO]: Thecno662[/127.173.8.53:55489] logged in with entity id 438 at (137.69999998807907, 31.0, -1.311607903844476)
+[18:18:14] [Server thread/INFO]: Thecno662 joined the game
+[18:18:53] [Server thread/INFO]: Clagolas8[/127.173.8.53:39377] logged in with entity id 576 at (29.72832937476579, 56.76636799395752, 51.30000001192093)
+[18:18:53] [Server thread/INFO]: Clagolas8 joined the game
+[18:20:15] [Server thread/INFO]: Clagolas8 was slain by Zombie
+[18:20:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Clagolas]
+[18:21:05] [Server thread/INFO]: [Thecno662: Made Clagolas a server operator]
+[18:21:10] [Server thread/INFO]: Clagolas was shot by Skeleton
+[18:21:16] [Server thread/INFO]: Thecno662 lost connection: Disconnected
+[18:21:16] [Server thread/INFO]: Thecno662 left the game
