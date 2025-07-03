@@ -1,15 +1,17 @@
 {
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_stick": "2025-07-03 02:34:54 +0000"
+      "unlock_right_away": "2025-07-03 02:33:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_planks": "2025-07-03 02:35:55 +0000"
+      "minecraft:taiga": "2025-07-03 02:33:59 +0000",
+      "minecraft:birch_forest": "2025-07-03 02:33:14 +0000",
+      "minecraft:meadow": "2025-07-03 02:33:38 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
@@ -17,9 +19,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_planks": "2025-07-03 02:35:55 +0000"
+      "has_log": "2025-07-03 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-03 02:34:54 +0000"
     },
     "done": true
   },
@@ -35,12 +49,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-03 02:34:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-03 02:34:54 +0000"
@@ -50,6 +58,30 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-03 02:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-03 02:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-03 02:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-03 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-03 02:35:55 +0000"
     },
     "done": true
   },
@@ -77,43 +109,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-03 02:33:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-07-03 02:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-03 02:35:55 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-03 02:34:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-07-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-07-03 02:33:59 +0000",
-      "minecraft:birch_forest": "2025-07-03 02:33:14 +0000",
-      "minecraft:meadow": "2025-07-03 02:33:38 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -142,6 +142,42 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-03 02:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-03 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-03 02:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-07-03 02:37:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-03 02:37:54 +0000"
     },
     "done": true
   },
