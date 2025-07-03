@@ -383,6 +383,7 @@
       "minecraft:creeper": "2025-07-03 03:35:04 +0000",
       "minecraft:slime": "2025-07-03 19:02:17 +0000",
       "minecraft:piglin": "2025-07-03 19:21:04 +0000",
+      "minecraft:enderman": "2025-07-03 19:22:53 +0000",
       "minecraft:zombie": "2025-07-03 02:54:35 +0000"
     },
     "done": false
@@ -1786,21 +1787,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-03 19:22:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-03 19:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2025-07-03 19:22:13 +0000"
     },
     "done": true
   },
@@ -1810,9 +1799,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_planks": "2025-07-03 19:22:13 +0000"
+      "has_netherrack": "2025-07-03 19:20:54 +0000"
     },
     "done": true
   },
@@ -1822,15 +1811,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_fence": {
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-03 19:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-03 19:22:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
+  "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
-      "has_log": "2025-07-03 19:21:18 +0000"
+      "has_planks": "2025-07-03 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-03 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-07-03 19:22:13 +0000"
     },
     "done": true
   },
@@ -1852,12 +1859,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-07-03 19:20:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-07-03 19:22:13 +0000"
@@ -1867,6 +1868,60 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-07-03 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-03 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-03 19:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-03 19:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-03 19:27:33 +0000"
     },
     "done": true
   },
