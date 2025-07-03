@@ -156,7 +156,8 @@
       "cooked_porkchop": "2025-07-03 03:03:07 +0000",
       "cooked_mutton": "2025-07-03 03:37:48 +0000",
       "sweet_berries": "2025-07-03 02:37:54 +0000",
-      "glow_berries": "2025-07-03 18:20:21 +0000"
+      "glow_berries": "2025-07-03 18:20:21 +0000",
+      "cooked_salmon": "2025-07-03 18:52:48 +0000"
     },
     "done": false
   },
@@ -1488,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-03 18:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-03 18:42:04 +0000"
@@ -1536,9 +1543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-03 18:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-03 18:50:08 +0000"
     },
     "done": true
   },
