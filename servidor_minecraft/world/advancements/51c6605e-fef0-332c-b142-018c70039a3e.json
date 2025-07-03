@@ -381,6 +381,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-03 02:57:33 +0000",
       "minecraft:creeper": "2025-07-03 03:35:04 +0000",
+      "minecraft:slime": "2025-07-03 19:02:17 +0000",
       "minecraft:zombie": "2025-07-03 02:54:35 +0000"
     },
     "done": false
@@ -1513,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-03 19:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
@@ -1522,6 +1529,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-03 19:08:43 +0000"
     },
     "done": true
   },
@@ -1561,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-03 19:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
@@ -1576,6 +1595,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-03 19:02:42 +0000"
     },
     "done": true
   },
@@ -1597,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-03 19:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-03 18:39:48 +0000"
@@ -1612,6 +1643,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-03 18:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-03 19:02:42 +0000"
     },
     "done": true
   },
