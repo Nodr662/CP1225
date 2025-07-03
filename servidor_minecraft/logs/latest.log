@@ -176,3 +176,28 @@
 [03:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=119, z=12}
 [03:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=9, y=120, z=12}
 [03:08:29] [Server thread/INFO]: Clagolas tried to swim in lava
+[03:10:04] [Server thread/INFO]: Clagolas8 burned to death
+[03:10:28] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
+[03:11:09] [Server thread/INFO]: Clagolas8 was shot by Skeleton
+[03:11:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
+[03:11:47] [Server thread/INFO]: deimos2862 was shot by Skeleton
+[03:11:52] [Server thread/INFO]: [Thecno662: Teleported deimos2862 to Clagolas8]
+[03:12:01] [Server thread/INFO]: Clagolas8 was slain by Zombie
+[03:12:06] [Server thread/INFO]: Clagolas fell from a high place
+[03:12:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=123, z=3}
+[03:12:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
+[03:12:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=1, y=120, z=3}
+[03:12:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=121, z=3}
+[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=122, z=3}
+[03:12:30] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
+[03:13:08] [Server thread/INFO]: Clagolas8 was doomed to fall by Skeleton
+[03:13:22] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Clagolas]
+[03:13:25] [Server thread/INFO]: Clagolas was slain by Zombie
+[03:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=120, z=-3}
+[03:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=120, z=-3}
+[03:13:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas to deimos2862]
+[03:13:35] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to deimos2862]
+[03:14:31] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to Clagolas]
