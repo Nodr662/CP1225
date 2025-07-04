@@ -1,117 +1,62 @@
-[18:11:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:12:03] [ServerMain/INFO]: Loaded 7 recipes
-[18:12:03] [ServerMain/INFO]: Loaded 1271 advancements
-[18:12:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:12:04] [Server thread/INFO]: Loading properties
-[18:12:04] [Server thread/INFO]: Default game type: SURVIVAL
-[18:12:04] [Server thread/INFO]: Generating keypair
-[18:12:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:12:04] [Server thread/INFO]: Using epoll channel type
-[18:12:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:12:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:12:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:12:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:12:04] [Server thread/INFO]: Preparing level "world"
-[18:12:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:12:20] [Server thread/INFO]: Time elapsed: 9807 ms
-[18:12:20] [Server thread/INFO]: Done (16.054s)! For help, type "help"
-[18:17:35] [Server thread/INFO]: deimos2862[/127.173.8.53:47387] logged in with entity id 200 at (117.69999998807907, 11.0, -3.300000011920929)
-[18:17:35] [Server thread/INFO]: deimos2862 joined the game
-[18:17:40] [Server thread/INFO]: Clagolas[/127.173.8.53:38797] logged in with entity id 265 at (30.546612586742842, 54.231523797587016, 48.92186347390511)
-[18:17:40] [Server thread/INFO]: Clagolas joined the game
-[18:18:14] [Server thread/INFO]: Thecno662[/127.173.8.53:55489] logged in with entity id 438 at (137.69999998807907, 31.0, -1.311607903844476)
-[18:18:14] [Server thread/INFO]: Thecno662 joined the game
-[18:18:53] [Server thread/INFO]: Clagolas8[/127.173.8.53:39377] logged in with entity id 576 at (29.72832937476579, 56.76636799395752, 51.30000001192093)
-[18:18:53] [Server thread/INFO]: Clagolas8 joined the game
-[18:20:15] [Server thread/INFO]: Clagolas8 was slain by Zombie
-[18:20:32] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Clagolas]
-[18:21:05] [Server thread/INFO]: [Thecno662: Made Clagolas a server operator]
-[18:21:10] [Server thread/INFO]: Clagolas was shot by Skeleton
-[18:21:16] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[18:21:16] [Server thread/INFO]: Thecno662 left the game
-[18:21:45] [Server thread/INFO]: [Clagolas: Teleported Clagolas8 to Clagolas]
-[18:22:19] [Server thread/INFO]: [Clagolas: Teleported Clagolas8 to Clagolas]
-[18:22:24] [Server thread/INFO]: Thecno662[/127.173.8.53:40325] logged in with entity id 1617 at (190.83724984135418, 3.0, 177.585876431497)
-[18:22:24] [Server thread/INFO]: Thecno662 joined the game
-[18:23:21] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to Clagolas]
-[18:25:06] [Server thread/INFO]: deimos2862 has made the advancement [Not Today, Thank You]
-[18:25:37] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[18:25:37] [Server thread/INFO]: Thecno662 left the game
-[18:28:56] [Server thread/INFO]: Thecno662[/127.173.8.53:58541] logged in with entity id 2942 at (38.109979125887406, 63.0, 58.46104690653856)
-[18:28:56] [Server thread/INFO]: Thecno662 joined the game
-[18:30:33] [Server thread/INFO]: Clagolas8 has made the advancement [Isn't It Iron Pick]
-[18:32:03] [Server thread/INFO]: Clagolas was shot by Skeleton
-[18:32:47] [Server thread/INFO]: [Thecno662: Teleported deimos2862 to Thecno662]
-[18:36:34] [Server thread/INFO]: deimos2862 has made the advancement [Suit Up]
-[18:36:47] [Server thread/INFO]: Clagolas has made the advancement [Suit Up]
-[18:37:36] [Server thread/INFO]: Clagolas has made the advancement [Not Today, Thank You]
-[18:38:32] [Server thread/INFO]: Clagolas8 has made the advancement [Take Aim]
-[18:38:48] [Server thread/INFO]: [Thecno662: Teleported Clagolas to Thecno662]
-[18:39:57] [Server thread/INFO]: Clagolas8 has made the advancement [Diamonds!]
-[18:40:33] [Server thread/INFO]: Clagolas was slain by Zombie
-[18:41:58] [Server thread/INFO]: deimos2862 has made the advancement [Sweet Dreams]
-[18:42:04] [Server thread/INFO]: Thecno662 has made the advancement [Not Today, Thank You]
-[18:42:30] [Server thread/INFO]: deimos2862 has made the advancement [Diamonds!]
-[18:43:01] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to deimos2862]
-[18:47:13] [Server thread/INFO]: Clagolas8 was slain by deimos2862
-[18:51:06] [Netty Epoll Server IO #1/WARN]: Clagolas sent out-of-order chat: 'tp Clagolas8 c'
-[18:51:06] [Server thread/INFO]: Clagolas lost connection: Out-of-order chat packet received. Did your system time change?
-[18:51:06] [Server thread/INFO]: Clagolas left the game
-[18:51:07] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:14] [Server thread/INFO]: Clagolas[/127.173.8.53:54763] logged in with entity id 7415 at (64.30000001192093, 11.0, 39.228026623053395)
-[18:51:14] [Server thread/INFO]: Clagolas joined the game
-[18:51:58] [Server thread/INFO]: [Clagolas: Teleported Clagolas8 to Clagolas8]
-[18:52:23] [Server thread/INFO]: [Clagolas: Teleported Clagolas8 to Clagolas]
-[18:52:37] [Server thread/INFO]: [Thecno662: Teleported Clagolas8 to Thecno662]
-[18:52:41] [Server thread/INFO]: [Thecno662: Teleported Clagolas to Thecno662]
-[18:55:19] [Server thread/INFO]: deimos2862 has made the advancement [A Seedy Place]
-[18:55:20] [Server thread/INFO]: Clagolas has made the advancement [Acquire Hardware]
-[18:57:11] [Server thread/INFO]: deimos2862 has made the advancement [Hot Stuff]
-[19:07:09] [Server thread/INFO]: [Thecno662: Teleported Thecno662 to deimos2862]
-[19:08:43] [Server thread/INFO]: Thecno662 has made the advancement [Ice Bucket Challenge]
-[19:13:19] [Server thread/INFO]: deimos2862 has made the advancement [Fishy Business]
-[19:14:34] [Server thread/INFO]: [Thecno662: Teleported Clagolas to Thecno662]
-[19:16:35] [Server thread/INFO]: Clagolas8 has made the advancement [Ice Bucket Challenge]
-[19:17:40] [Server thread/INFO]: Thecno662 has made the advancement [We Need to Go Deeper]
-[19:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
-[19:18:32] [Server thread/INFO]: Clagolas8 has made the advancement [We Need to Go Deeper]
-[19:19:16] [Server thread/INFO]: Clagolas has made the advancement [We Need to Go Deeper]
-[19:19:34] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[19:19:34] [Server thread/INFO]: Thecno662 left the game
-[19:19:36] [Server thread/INFO]: Thecno662[/127.173.8.53:46967] logged in with entity id 13649 at (39.41821515387588, 63.0, 65.33147560121454)
-[19:19:36] [Server thread/INFO]: Thecno662 joined the game
-[19:20:40] [Server thread/INFO]: Clagolas8 was slain by Piglin
-[19:22:01] [Server thread/WARN]: deimos2862 moved wrongly!
-[19:22:58] [Server thread/INFO]: deimos2862 has made the advancement [We Need to Go Deeper]
-[19:23:29] [Server thread/INFO]: Clagolas8 was slain by Zombified Piglin
-[19:26:20] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[19:26:20] [Server thread/INFO]: Thecno662 left the game
-[19:26:22] [Server thread/INFO]: Thecno662[/127.173.8.53:53337] logged in with entity id 15457 at (33.089997436923035, 60.0, -83.1826182960983)
-[19:26:22] [Server thread/INFO]: Thecno662 joined the game
-[19:26:52] [Server thread/INFO]: Thecno662 lost connection: Timed out
-[19:26:52] [Server thread/INFO]: Thecno662 left the game
-[19:27:05] [Server thread/INFO]: Clagolas8 was slain by Zombified Piglin
-[19:27:10] [Server thread/INFO]: Thecno662[/127.173.8.53:35867] logged in with entity id 15826 at (27.370247728151366, 62.495200877005914, -72.53782671317653)
-[19:27:10] [Server thread/INFO]: Thecno662 joined the game
-[19:29:54] [Server thread/INFO]: deimos2862 has made the advancement [Ice Bucket Challenge]
-[19:31:23] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[19:31:23] [Server thread/INFO]: Thecno662 left the game
+[00:33:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:33:20] [ServerMain/INFO]: Loaded 7 recipes
+[00:33:20] [ServerMain/INFO]: Loaded 1271 advancements
+[00:33:21] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:33:21] [Server thread/INFO]: Loading properties
+[00:33:21] [Server thread/INFO]: Default game type: SURVIVAL
+[00:33:21] [Server thread/INFO]: Generating keypair
+[00:33:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:33:22] [Server thread/INFO]: Using epoll channel type
+[00:33:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:33:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:33:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:33:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:33:22] [Server thread/INFO]: Preparing level "world"
+[00:33:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:45] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[00:33:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:33:46] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[00:33:46] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[00:33:47] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[00:33:47] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[00:33:48] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[00:33:49] [Worker-Main-1/INFO]: Preparing spawn area: 91%
+[00:33:49] [Server thread/INFO]: Time elapsed: 16911 ms
+[00:33:49] [Server thread/INFO]: Done (27.098s)! For help, type "help"
+[00:34:04] [Server thread/INFO]: deimos2862[/127.173.8.53:42007] logged in with entity id 218 at (25.658742959740923, 68.0, 131.24575432945352)
+[00:34:04] [Server thread/INFO]: deimos2862 joined the game
+[00:34:38] [Server thread/INFO]: Clagolas[/127.173.8.53:52053] logged in with entity id 326 at (27.36364556089654, 13.0, 34.30000001192093)
+[00:34:38] [Server thread/INFO]: Clagolas joined the game
+[00:34:55] [Server thread/INFO]: Clagolas8[/127.173.8.53:38599] logged in with entity id 384 at (37.85423562285809, 63.0, 65.76249998807907)
+[00:34:55] [Server thread/INFO]: Clagolas8 joined the game
+[00:38:04] [Server thread/INFO]: Clagolas8 tried to swim in lava to escape Zombified Piglin
+[00:39:19] [Server thread/INFO]: Clagolas8 has made the advancement [Suit Up]
+[00:40:58] [Server thread/WARN]: deimos2862 moved too quickly! -9.843828458020138,-1.5047991229940898,2.427391201651119
+[00:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4148ms or 82 ticks behind
+[00:41:07] [Server thread/INFO]: Clagolas8 was slain by Zombified Piglin
